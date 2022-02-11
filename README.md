@@ -1,5 +1,5 @@
 ## Project:
-Smart contract on Cardano blockchain that can help in solving CORRUPTION plaguing Africa.
+A Smart contract on the Cardano blockchain that can help in solving CORRUPTION plaguing Africa.
 
 ## Suggested Solution:
 - Person A thinks of a secret word and uses its hash, and the game validator script, to lock some funds (the payment for service he/she requires) in a pay-to-script transaction output.
